@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub!</h1>
-<h3 align="center">A self-taught, passionate C#/.NET developer from Poland. I write applications in C#/.NET and am an ambitious programmer with a passion for creating applications and a penchant for learning new technologies. My goal is to master C#/.NET to the greatest extent possible.</h3>
+<h3 align="center">A self-taught programmer from Poland. I write applications in C#/.NET and am an ambitious programmer with a passion for creating applications and a penchant for learning new technologies. My goal is to master C#/.NET to the greatest extent possible.</h3>
 
 - 🔭 I’m currently working on [Kitchelp - Restaurant integration system](https://github.com/Tikabsic/Kitchelp)
 
