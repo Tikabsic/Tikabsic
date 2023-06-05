@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub!</h1>
-<h3 align="center">A self-taught, passionate Fullstack developer from Poland. I write applications in C#/.NET and am an ambitious programmer with a passion for creating applications and a penchant for learning new technologies. My goal is to master C#/.NET and Angular to the greatest extent possible.</h3>
+<h3 align="center">A self-taught, passionate C#/.NET developer from Poland. I write applications in C#/.NET and am an ambitious programmer with a passion for creating applications and a penchant for learning new technologies. My goal is to master C#/.NET to the greatest extent possible.</h3>
 
-- 🔭 I’m currently working on [Dikky - online card game](https://github.com/Tikabsic/CardGame)
+- 🔭 I’m currently working on [Kitchelp - Restaurant integration system](https://github.com/Tikabsic/Kitchelp)
 
-- 🌱 I’m currently learning **JavaScript/TypeScript**
+- 🌱 I’m currently learning **Design Patterns**
 
 - 💬 Ask me about **C#/.NET**
 
